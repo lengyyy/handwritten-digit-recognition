@@ -28,8 +28,7 @@ The data used in this lab is from a famous dataset called MNIST, which is compos
 
 The following ﬁgure describes the loss and the test accuracy. The accuracy gets 94% when 15 epochs. After 100 epochs, the accuracy of the test set is more than 95%.
 
-![](https://github.com/lengyyy/handwritten-digit-recognition/blob/master/report/pictures/figure.pdf)
-<!-- <img src="https://github.com/lengyyy/handwritten-digit-recognition/blob/master/report/pictures/figure.pdf" width="600"> -->
+<img src="https://github.com/lengyyy/handwritten-digit-recognition/blob/master/report/pictures/experiment.png" width="750">
 
 
 Details are shown in [report](https://github.com/lengyyy/handwritten-digit-recognition/blob/master/report/Report.pdf).
